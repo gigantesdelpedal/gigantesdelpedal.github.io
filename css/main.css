@@ -236,7 +236,7 @@ h1.nombre-sitio span {
 div.hero {
   background-image: url(../img/gigantes.JPG);
   height: 100vh;
-  background-position: top center;
+  background-position:center;
   background-size: cover;
 }
 div.contenido-header {
